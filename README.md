@@ -10,7 +10,7 @@ The application includes user authentication, score tracking, and a leaderboard 
 
 To run the project locally, follow these steps:
 --cd backend
---node server.js
+--node server.js 
 --cd number-guessing-game
 --npm start
 ### Prerequisites
